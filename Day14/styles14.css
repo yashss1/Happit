@@ -1,0 +1,139 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #ff4c68;
+}
+
+/* <-----------------------Title-------------------> */
+#Title {
+  margin: 0 0 60px;
+}
+
+.Happit {
+  padding-top: 50px;
+  padding: 30px 25px 0;
+}
+
+#Title .head {
+  font-family: 'Righteous', cursive;
+  font-weight: bold;
+  font-size: 3rem;
+  color: #fff;
+  position: absolute;
+  top: -10px;
+  left: 30px;
+}
+
+.subHead {
+  position: absolute;
+  top: 53px;
+  left: 100px;
+  color: #fff;
+}
+
+.don {
+  background-color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.msg {
+  font-weight: bold;
+}
+
+/* ------------------------day----------------- */
+#day {
+  color: #fff;
+  padding: 50px 100px;
+  text-align: center;
+}
+
+.calender {
+  width: 150px;
+  padding-top: 1.12rem;
+}
+
+.dayHead {
+  font-weight: bold;
+  padding: 20px 0 0 0;
+  padding-top: 1.87rem;
+}
+
+.row {
+  margin: 0 36%;
+}
+
+.msg {
+  font-size: 2rem;
+}
+
+.fluid-container {
+  height: 0.5rem;
+  background-color: white;
+}
+
+/* -------------------------Text------------------- */
+.text {
+  padding: 6% 5%;
+  color: #fff;
+}
+
+
+
+h5 {
+  font-size: 1.6rem;
+  font-weight: normal;
+  line-height: 1.5;
+  /* width: 50%; */
+}
+
+.wakeUp {
+  float: left;
+  padding-top: 0.54rem;
+  width: 45%;
+  padding-right: 50px;
+}
+
+.move {
+  text-align: center;
+  padding-bottom: 85px;
+}
+
+/* -----------------------------calenderDays------------------------ */
+#calenderDays {
+  text-align: center;
+  padding: 2% 0;
+}
+
+.calenderDaysU {
+  padding: 0 10px;
+}
+
+/* -------------------------------Company----------------------- */
+#company {
+  padding: 90px 10px 15px 10px;
+  text-align: center;
+  background-color: #fff;
+}
+
+#ooter {
+  color: #ef8172;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.icons {
+  color: #ef8172;
+}
+
+/* ---------------------------Feedback--------------------- */
+#feedback {
+  position: fixed;
+  bottom: 20px;
+  right: 50px;
+  font-weight: bold;
+}
+
+.feedback-img {
+  width: 25px;
+  margin-right: 7px;
+}
